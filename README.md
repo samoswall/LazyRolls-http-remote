@@ -19,3 +19,4 @@ Added the ability to control other devices LazyRolls via http
 * На главную страницу добавлены 5 кнопок управления для перехода в настроенные позиции шторы. Если подключены ведомые по HTTP, то они переходят в свои настроенные позиции.
 * Заменена иконка приложения на иконку автора с GitHub (АСЕ).
 
+![all](https://github.com/samoswall/LazyRolls-http-remote/blob/main/remote%20http%20main.png)
