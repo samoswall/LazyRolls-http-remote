@@ -7,6 +7,13 @@ Added the ability to control other devices LazyRolls via http
 Файлы для печати: [https://www.thingiverse.com/thing:2857899](https://www.thingiverse.com/thing:2857899)\
 Видео работы: [https://www.youtube.com/watch?v=lvBh_m7pOAI](https://www.youtube.com/watch?v=lvBh_m7pOAI)
 
+<br>
+
+> [!NOTE]
+> Не актуально! Поддержка добавлена в основном репозитории LazyRolls начиная с версии 0.15.3
+
+<br>
+
 ### Изменения внесенные в авторскую прошивку v0.12
 * Добавлено управление ведомыми по HTTP.\
 В Настройках в разделе Управление по HTTP:
